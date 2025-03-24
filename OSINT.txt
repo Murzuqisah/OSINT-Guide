@@ -1,0 +1,42 @@
+Job-Specific Skills & Technologies for an OSINT Analyst
+Technical Skills
+
+    Programming & Scripting: Python (BeautifulSoup, Scrapy), JavaScript, Bash
+
+    Data Analysis & Visualization: SQL, Pandas, OpenRefine, Maltego
+
+    Web Scraping & Automation: Selenium, Puppeteer, Scrapy
+
+    Database Management: SQLite, MongoDB, NoSQL
+
+    Networking & Protocols: TCP/IP, DNS, WHOIS, VPNs, Tor
+
+OSINT Tools & Frameworks
+
+    Search & Reconnaissance: Google Dorking, Shodan, Censys, FOCA
+
+    Social Media Intelligence (SOCMINT): OSINT Framework, SentiOne, Social-Searcher
+
+    Dark Web & Blockchain Analysis: CipherTrace, Elliptic, Tor Browser
+
+    Metadata & Digital Footprinting: EXIF tools, Spiderfoot, TheHarvester
+
+    Threat Intelligence & Investigation: Maltego, MISP, VirusTotal, OpenCTI
+
+Cybersecurity & Ethical Hacking
+
+    Penetration Testing: Kali Linux, Metasploit, Burp Suite
+
+    Digital Forensics: Autopsy, Volatility, FTK Imager
+
+    Threat Hunting & Risk Assessment: MITRE ATT&CK, RiskIQ
+
+Soft Skills
+
+    Analytical thinking & problem-solving
+
+    Attention to detail & pattern recognition
+
+    Ethical data gathering & compliance with legal frameworks
+
+    Effective communication & reporting findings
